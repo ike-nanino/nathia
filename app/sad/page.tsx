@@ -9,8 +9,7 @@ import MobileNav from "@/components/MobileNav";
 
 
 const messages = [
-  " Missing you more every day.",
-  " Missing you more every day.",
+  " I am not really good at being vocal about my feelings so I do not say this enough. You are the reason I am still here. You were there on the worst days and you kept me going. So when you are feeling sad about life or anything? Know that you are the reaon why I smile. I hope that makes you happy.",
 ];
 
 const Sad = () => {

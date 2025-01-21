@@ -8,7 +8,9 @@ import MobileNav from "@/components/MobileNav";
 import Image from "next/image";
 
 const messages = [
-  "Message 1: Missing you more every day.",
+  "Distance suck, missing you is hard but I am grateful to have someone like you that is worth missing. I look forward to the day when we can finally be together in person.",
+  "We have so much to talk about, so many activities to do.That will happen very soon. Thank you for always being there for me no matter how far apart we are",
+  "This very momemnt as you are reading this, I am missing you too. I know that because while writing this, I was missing you and I had a big smile on my face.",
 ];
 
 const MissMePage = () => {
