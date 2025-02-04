@@ -11,6 +11,8 @@ const messages = [
   "Distance suck, missing you is hard but I am grateful to have someone like you that is worth missing. I look forward to the day when we can finally be together in person.",
   "We have so much to talk about, so many activities to do.That will happen very soon. Thank you for always being there for me no matter how far apart we are",
   "This very momemnt as you are reading this, I am missing you too. I know that because while writing this, I was missing you and I had a big smile on my face.",
+  "I miss the way you make even ordinary moments feel magical, like my birthdays and the one time we ate together on facetime. You are my favorite adventure, and I promise we will fill our days with a thousand more memories soon.",
+  "They say love is like the wind, you can’t see it, but you can feel it. With you, I feel it in every text you send, every memory we share, and every second I spend counting down to the day i get to see you.",
 ];
 
 const MissMePage = () => {

@@ -10,6 +10,10 @@ import MobileNav from "@/components/MobileNav";
 
 const messages = [
   " I am not really good at being vocal about my feelings so I do not say this enough. You are the reason I am still here. You were there on the worst days and you kept me going. So when you are feeling sad about life or anything? Know that you are the reaon why I smile. I hope that makes you happy.",
+  " I wish I could wrap you in my arms right now and tell you how much you mean to me. Until then, imagine me holding you close, tracing the stars on your skin, and promising you forever. I will always be your biggest supporter and will be there for you always, anytime you call on me.",
+  "I have loved you every second of every day since the moment I met you and I will love you every second until I die. If you ever feel like you have no one, you have me. I have never wanted to be with anyone more than I want to be with you. If you ever feel unloved, I hope this particular card can remind you of my love for you.",
+  "Thank you for making me feel comfortable being who I am, thank you for listening to my problems even when you had so much stuff going on in your life. Thank you for being the amazing person that you are. You are definitely the best thing that have ever happened to me. ",
+  "I still remember the butterflies I got the first few days when we started talking. There is a reason why I remember them so vividly and that is because I still get them to this very day. My excitment for you never went away, even on days where I did not have much to say or days where i felt down or sad. ",
 ];
 
 const Sad = () => {
