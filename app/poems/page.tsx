@@ -9,7 +9,7 @@ import MobileNav from "@/components/MobileNav";
 
 
 const messages = [
-  " Missing you more every day.",
+  " I hope you never forget how much you mean to me, how you make me feel so seen and so loved. I was incomplete, I was half a man, you made me whole. A whole other person, a whole person who wants to stretch themself for you. Learn new things for you. I never knew how to pray, but I am praying harder than ever, for me and you.",
 ];
 
 const Poems = () => {
