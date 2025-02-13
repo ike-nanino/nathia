@@ -13,7 +13,7 @@ const leagueSpartan = League_Spartan({
 
 export const metadata: Metadata = {
   title: "Nathia",
-  description: "expreessing my love for nathia",
+  description: "it is Nathia's world & we are just living in it",
 };
 
 export default function RootLayout({

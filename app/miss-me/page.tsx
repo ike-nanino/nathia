@@ -55,7 +55,7 @@ const MissMePage = () => {
             className="border rounded-lg p-4 shadow-md flex flex-col justify-between glass-container"
           >
             {/* Message Content */}
-            <p className="text-gray-300 mb-4">{message}</p>
+            <p className="text-gray-200 mb-4">{message}</p>
 
             {/* Favorite Button */}
             <button
