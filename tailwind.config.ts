@@ -71,7 +71,7 @@ export default {
   		},
 		  animation: {
 			move: "move 5s linear infinite",
-			sparkle: "sparkle 0.5s ease-out forwards",
+			diagonal: "diagonal 25s linear infinite",
 		  },
 		  keyframes: {
 			move: {
@@ -85,14 +85,14 @@ export default {
 				transform: 'translateY(0)',
 			  },
 			},
-			sparkle: {
+			diagonal: {
 			  "0%": {
-				opacity: '1',
-				transform: 'scale(1) translate(0, 0)',
+				opacity: '0.9',
+				transform: 'translate(0, 0)',
 			  },
 			   "100%": {
 				opacity: '0',
-				transform: 'scale(0.5) translate(50px, -50px)',
+				transform: 'translate(90vw, -100vh)',
 			  },
 			},
 		  },

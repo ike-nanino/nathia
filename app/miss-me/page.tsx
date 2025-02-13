@@ -28,6 +28,7 @@ const MissMePage = () => {
 
   return (
     <div className="relative mx-auto min-h-screen p-4 bg-gradient-to-r from-emerald-500 to-emerald-900">
+      
       <Image
         src="/assets/images/hands.png"
         alt="hands"
