@@ -10,6 +10,7 @@ import MobileNav from "@/components/MobileNav";
 
 const messages = [
   " I hope you never forget how much you mean to me, how you make me feel so seen and so loved. I was incomplete, I was half a man, you made me whole. A whole other person, a whole person who wants to stretch themself for you. Learn new things for you. I never knew how to pray, but I am praying harder than ever, for me and you.",
+  "Let's build a home together, somewhere our love lasts forever. Let's build it from scratch, from the floor to the ceiling, a sancity where we can focus on healing, picking windows that let the right light enter our hearts. The perfect shaped doors where adventures start. We can paint the walls together so our love is in every coat. We will plant trees that will grow with our love and we will keep building until it is enough. We will get there, bit by bit, piece by piece. We will build a home for our souls to find peace.",
 ];
 
 const Poems = () => {
