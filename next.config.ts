@@ -6,7 +6,10 @@ const nextConfig: NextConfig = {
   },
   eslint: {
     ignoreDuringBuilds: true,
-  }
+  },
+  env: {
+    NEXT_PUBLIC_BUILD_TIME: Date.now().toString(),
+  },
 };
 
 export default nextConfig;

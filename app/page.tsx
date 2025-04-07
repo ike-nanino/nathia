@@ -1,4 +1,5 @@
 import MobileNav from "@/components/MobileNav";
+import { VersionNotifier } from "@/components/VersionNotifier";
 import Image from "next/image";
 
 export default function Home() {
@@ -37,6 +38,9 @@ export default function Home() {
       <h1 className="text-center lg:text-3xl absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2  px-4">
       Every moment with you feels like a love song. I built this little corner of the internet just to remind you how much you mean to me.
       </h1>
+
+
+      <VersionNotifier />
     </div>
   );
 }

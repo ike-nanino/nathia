@@ -14,6 +14,7 @@ const messages = [
   "I have loved you every second of every day since the moment I met you and I will love you every second until I die. If you ever feel like you have no one, you have me. I have never wanted to be with anyone more than I want to be with you. If you ever feel unloved, I hope this particular card can remind you of my love for you.",
   "Thank you for making me feel comfortable being who I am, thank you for listening to my problems even when you had so much stuff going on in your life. Thank you for being the amazing person that you are. You are definitely the best thing that have ever happened to me. ",
   "I still remember the butterflies I got the first few days when we started talking. There is a reason why I remember them so vividly and that is because I still get them to this very day. My excitment for you never went away, even on days where I did not have much to say or days where i felt down or sad. ",
+  "I have become addicted to everything that involves you, every word and every action, I am addicted to you, and now I need you in every aspect of my life to survive. I don't want to do life without you. Life without you will be meaningless, life without you will be aimless.",
 ];
 
 const Sad = () => {
