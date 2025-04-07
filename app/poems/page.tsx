@@ -6,6 +6,7 @@ import { faHeart as SolidHeart } from "@fortawesome/free-solid-svg-icons";
 import { faHeart as OutlineHeart } from "@fortawesome/free-regular-svg-icons";
 import Image from "next/image";
 import MobileNav from "@/components/MobileNav";
+import { VersionToast } from "@/components/VersionToast";
 
 
 const messages = [
@@ -27,7 +28,7 @@ const Poems = () => {
   return (
     <div className="relative mx-auto min-h-screen p-4 bg-gradient-to-r from-slate-500 to-slate-800">
 
-
+ <VersionToast />
       
 <Image
         src="/assets/images/hands.png"

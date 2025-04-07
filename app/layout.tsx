@@ -1,10 +1,10 @@
-"use client"
+
 
 import type { Metadata } from "next";
 import { League_Spartan } from "next/font/google";
 import "./globals.css";
 import SideMenu from "@/components/SideMenu";
-import { useVersionCheck } from "@/hooks/useVersionCheck";
+
 
 
 
@@ -25,7 +25,7 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  useVersionCheck();
+
   return (
     <html lang="en">
       <body

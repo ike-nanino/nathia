@@ -1,10 +1,12 @@
 import MobileNav from "@/components/MobileNav";
 import { VersionNotifier } from "@/components/VersionNotifier";
 import Image from "next/image";
+import { VersionToast } from "@/components/VersionToast";
 
 export default function Home() {
   return (
     <div className="relative mx-auto min-h-screen p-4 bg-gradient-to-r from-amber-200 to-yellow-500">
+       <VersionToast />
       <div className="absolute left-0 bottom-0 z-0">
         <Image
           src="/assets/images/butterfly.gif"
@@ -40,7 +42,7 @@ export default function Home() {
       </h1>
 
 
-      <VersionNotifier />
+     
     </div>
   );
 }
