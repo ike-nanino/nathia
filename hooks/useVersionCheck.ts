@@ -12,9 +12,9 @@ export const useVersionCheck = () => {
     const lastSeen = localStorage.getItem(LOCAL_KEY);
 
     if (lastSeen !== APP_VERSION) {
-      toast("✨ We've added new loving words just for you!", {
-        description: "Check out the fresh updates 💕",
-        duration: 6000,
+      toast("✨ I've added new loving words just for you baby 💕", {
+        description: "✨ I've added new loving words just for you baby 💕",
+        duration: 4000,
       }); 
       localStorage.setItem(LOCAL_KEY, APP_VERSION);
     }
