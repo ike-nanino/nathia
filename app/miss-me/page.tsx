@@ -14,6 +14,7 @@ const messages = [
   "I miss the way you make even ordinary moments feel magical, like my birthdays and the one time we ate together on facetime. You are my favorite adventure, and I promise we will fill our days with a thousand more memories soon.",
   "They say love is like the wind, you can’t see it, but you can feel it. With you, I feel it in every text you send, every memory we share, and every second I spend counting down to the day i get to see you.",
   "I could never let go of you because you mean the world to me. I hope you smile when you are thinking about me. Even when your heart is sinking, I hope it lifts back up with the thought of me. I hope with me, you never let go, knowing that you are loved, cherished and celebrated in every way.",
+  "I have been let down so many times before, but you have never disappointed me. You always support me to the fullest.",
 ];
 
 const MissMePage = () => {

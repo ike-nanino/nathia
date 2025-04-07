@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import { League_Spartan } from "next/font/google";
 import "./globals.css";
 import SideMenu from "@/components/SideMenu";
-import { Toaster } from "sonner";
 import { useVersionCheck } from "@/hooks/useVersionCheck";
 
 
@@ -37,8 +36,6 @@ export default function RootLayout({
           {/* Scrollable Content */}
           <div className="flex-1 overflow-y-auto">{children}</div>
         </main>
-
-        <Toaster position="top-center" richColors />
       </body>
     </html>
   );
